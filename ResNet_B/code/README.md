@@ -17,7 +17,7 @@ Please run in main.py with mode `train`
 
 Please run in main.py with mode `test`
 The model with best performace is checkpint 20, which already set as `checkpoint_num_list = [20]`
-Feel free to check the performance of other models by change the `checkpoint_num_list` in `main.py` under model `test`
+Feel free to check the performance of other models by change the `checkpoint_num_list` in `main.py` under mode `test`
 
 ======= **Prediction on Private Testing Set** =======
 
